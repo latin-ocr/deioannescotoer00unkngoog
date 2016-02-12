@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deioannescotoer00unkngoog_0348.png"; bbox 0 0 2940 4710; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 496 1311 940 1454">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 496 1311 940 1454">
+     <span class='ocr_line' id='line_1_1' title="bbox 496 1311 940 1454; baseline 0 -30"><span class='ocrx_word' id='word_1_1' title='bbox 496 1311 940 1454; x_wconf 58' lang='lat' dir='ltr'><strong>Anhang</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 146 1559 1260 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 146 1559 1260 1890">
+     <span class='ocr_line' id='line_1_2' title="bbox 164 1559 1259 1664; baseline -0.008 -20"><span class='ocrx_word' id='word_1_2' title='bbox 164 1561 449 1664; x_wconf 72' lang='lat' dir='ltr'>Merkwssrdige</span> <span class='ocrx_word' id='word_1_3' title='bbox 460 1561 601 1654; x_wconf 84' lang='lat' dir='ltr'><strong>Briefe‚</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 621 1561 848 1640; x_wconf 61' lang='lat' dir='ltr'><strong>sammtliche</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 860 1559 1046 1640; x_wconf 82' lang='lat' dir='ltr'>Gedichte</span> <span class='ocrx_word' id='word_1_6' title='bbox 1064 1561 1259 1655; x_wconf 77' lang='lat' dir='ltr'>Gerberts‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 146 1681 1260 1789; baseline -0.003 -23"><span class='ocrx_word' id='word_1_7' title='bbox 146 1685 884 1789; x_wconf 32' lang='lat' dir='ltr'><strong>1wichtigeihnbetreffendeUrkunden‚</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 904 1681 1260 1766; x_wconf 79' lang='lat' dir='ltr'><strong>Chronikenstelleu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 364 1809 1058 1890; baseline -0.003 -2"><span class='ocrx_word' id='word_1_9' title='bbox 364 1809 439 1888; x_wconf 87' lang='lat' dir='ltr'><strong>und</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 457 1809 565 1890; x_wconf 69' lang='lat' dir='ltr'>aeine</span> <span class='ocrx_word' id='word_1_11' title='bbox 581 1809 814 1888; x_wconf 80' lang='lat' dir='ltr'>Grabschrist</span> <span class='ocrx_word' id='word_1_12' title='bbox 834 1810 1058 1889; x_wconf 79' lang='lat' dir='ltr'><strong>enthahend.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 614 2085 821 2096">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 614 2085 821 2096">
+     <span class='ocr_line' id='line_1_5' title="bbox 614 2085 821 2096; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 614 2085 821 2096; x_wconf 52' lang='lat' dir='ltr'><strong>monn—unan-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1474 4710">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1474 4710">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1474 4710; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1474 4710; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
